@@ -1,4 +1,9 @@
 ﻿<Solution>
+  <Project Path="fh-aachen.powerwall.xrplugin.csproj" />
+  <Project Path="FH-Aachen.Powerwall.Xrplugin.Tracking.Dtrack.csproj" />
+  <Project Path="FH-Aachen.Powerwall.Xrplugin.Editor.csproj" />
+  <Project Path="FH-Aachen.Powerwall.Xrplugin.Tracking.Vicon.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="FH-Aachen.Powerwall.Xrplugin.Tracking.Settings.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
 </Solution>
